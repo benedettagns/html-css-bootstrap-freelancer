@@ -1,0 +1,64 @@
+.navbar {
+    background-color: rgb(53, 53, 53);
+    height: 70px;
+}
+
+.row img{
+    width: 200px;
+}
+
+.bg-acqua {
+    background-color: rgb(23, 201, 97);
+}
+
+.padding {
+    padding-top: 50px ;
+}
+
+.padding-img {
+    padding-top: 40px;
+}
+
+.padding-img img {
+    border-radius: 10px;
+}
+
+.margin {
+    margin-top: 50px;
+}
+
+.text {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.contenitore {
+    width: 800px;
+    margin-left: 300px;
+}
+.altezza {
+    padding-top: 10px;
+    height: 50px;
+    border-bottom: 1px grey solid;
+}
+
+.big-altezza {
+    height: 100px;
+    border-bottom: 1px grey solid;
+}
+
+.button-green {
+    border: 1px aqua solid;
+    background-color: aqua;
+    width: 80px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.button-green a {
+    color: white;
+    
+    
+}
